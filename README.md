@@ -12,11 +12,16 @@ First In Last Out & Last In First Out
 Stack:![alt text](https://github.com/DarrenLUCreate/DarreNC/blob/master/Stack.png)
 
 Stack所必須要具備的5項功能:
-* Push:把資料丟進去的動作，第一個是head，最後一個是Tail
-* Pop:
-* Top
-* IsEmpty
-* getSize
+* Push : 把資料丟進去的動作，第一個是head，最後一個是Tail
+* Pop : 把最上面的，也就是從尾巴開始將資料移除
+* Top : 查看並確認Tail的資料是哪個資料
+* IsEmpty : 確認Stack中是否有資料
+* getSize : 回傳Stack中有多少的資料
+
+相關資料:
+
+Python Stack&Queue ![](https://youtu.be/In-1i27Fp0w)
+
 
 
 
