@@ -20,7 +20,7 @@ Stack所必須要具備的5項功能:
 
 相關資料:
 
-Python Stack&Queue ![](https://youtu.be/In-1i27Fp0w)
+Python Stack&Queue ![alt text ](https://youtu.be/In-1i27Fp0w)
 
 
 
