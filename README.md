@@ -24,9 +24,17 @@ First In First Out & Last In Last Out
 
 假如今天我有一個DataSet是ABC，我放入的順序是ABC，我取出來的順序也是ABC
 
+Queue必備的功能:
+* Push : 從資料的Tail放入新的資料 ，也就是新的人來買雞排
+* Pop : 將Front所指向的資料移除，從Queue裡刪除資料為dequeue，也就是拿到雞排後走掉的人
+* getFront : 回傳Front所指向的資料，
+* getBack : 回傳Back所指向的資料
+* IsEmpty : 回傳Queue裡是否有資料
+* getSize : 確認Queue裡的資料個數
+
 相關資料:
 
-Python Stack&Queue [![V]](https://youtu.be/In-1i27Fp0w)
+Python Stack&Queue [![Video]](https://youtu.be/In-1i27Fp0w)
 
 
 
