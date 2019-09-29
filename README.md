@@ -18,6 +18,12 @@ Stack所必須要具備的5項功能:
 * IsEmpty : 確認Stack中是否有資料
 * getSize : 回傳Stack中有多少的資料
 
+Queue有點像是排隊買雞排，先買到的時候就可以很囂張地跟後面的人說"嗯~真香~"，網站伺服器，CPU都有用到Queue
+
+First In First Out & Last In Last Out
+
+假如今天我有一個DataSet是ABC，我放入的順序是ABC，我取出來的順序也是ABC
+
 相關資料:
 
 Python Stack&Queue [![V]](https://youtu.be/In-1i27Fp0w)
