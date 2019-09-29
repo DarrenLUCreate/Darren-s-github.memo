@@ -13,6 +13,8 @@ Stack:![alt text](https://github.com/DarrenLUCreate/DarreNC/blob/master/Stack.pn
 
 Stack所必須要具備的5項功能:
 * Push
+
+把資料丟進去的動作，第一個是head，
 * Pop
 * Top
 * IsEmpty
