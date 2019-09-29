@@ -34,7 +34,7 @@ Queue必備的功能:
 
 相關資料:
 
-Python Stack&Queue [![Video]](https://youtu.be/In-1i27Fp0w)
+![Python Stack&Queue](https://youtu.be/In-1i27Fp0w)
 
 
 
