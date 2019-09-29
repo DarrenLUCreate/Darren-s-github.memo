@@ -11,6 +11,15 @@ First In Last Out & Last In First Out
 
 Stack:![alt text](https://github.com/DarrenLUCreate/DarreNC/blob/master/Stack.png)
 
+Stack所必須要具備的5項功能:
+* Push
+* Pop
+* Top
+* IsEmpty
+* getSize
+
+
+
 
 
 
