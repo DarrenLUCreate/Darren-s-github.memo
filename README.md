@@ -32,9 +32,11 @@ Queue必備的功能:
 * IsEmpty : 回傳Queue裡是否有資料
 * getSize : 確認Queue裡的資料個數
 
+Queue:![alt text](https://github.com/DarrenLUCreate/DarreNC/blob/master/geek-queue-1.png)
+
 相關資料:
 
-Python Stack&Queue[![V]](https://youtu.be/In-1i27Fp0w)
+Python Stack&Queue[![Video]](https://youtu.be/In-1i27Fp0w)
 
 
 
