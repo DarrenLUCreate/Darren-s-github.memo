@@ -10,6 +10,8 @@ LinkedList是由一連串的節點(Node)所組成的，每個節點指向下一�
 
 LinkedList:![alt text](https://github.com/DarrenLUCreate/DarreNC/blob/master/LinkList.png)
 
+上面圖解的作者網址:https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d
+
 class LinkList:
 
   def __init__(self,data):
