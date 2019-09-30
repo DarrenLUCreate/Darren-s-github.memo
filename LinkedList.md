@@ -12,15 +12,15 @@ LinkedList:![alt text](https://github.com/DarrenLUCreate/DarreNC/blob/master/Lin
 
 上面圖解的作者網址:https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d
 
-class LinkList:
+    class LinkList:
 
-  def __init__(self,data):
+      def __init__(self,data):
   
-    self.data = data
+        self.data = data
     
-    self.next = None
+        self.next = None
     
-    return
+        return
     
 ### 為甚麼要有LinkedList?
 
