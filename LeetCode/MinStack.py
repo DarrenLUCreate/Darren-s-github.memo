@@ -5,8 +5,8 @@ class MinStack:
         
     def push(self,x):
         self.data.append(x)
-        if len(self.data) == 0 or self.mindata[-1]: #確認我們是否需要上傳最小值，決定要不要排隊買雞排
-            self.mindata.append(x) #回傳值，排隊買雞排
+        if len(self.data) == 0 or self.mindata[-1]: #確認我們是否需要上傳最小值，決定要不要加一份薯條
+            self.mindata.append(x) #回傳值，該買薯條了吧
     
     def pop(self):
         if len(self.data) == 0: #如果self的長度是0，代表裡面沒有值，也就是沒有人買雞排
