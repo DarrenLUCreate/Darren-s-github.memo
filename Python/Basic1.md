@@ -54,6 +54,6 @@ str1 = "fwwrgwegwwg"
 
 str1[1::3] ==> 'wggg'
 
-str[start:end:steps] start:字符開始的地方 end:字符節結束的地方 steps:提取字符的間隔步長
+str[start:ends:steps] start:字符開始的地方 end:字符節結束的地方 steps:提取字符的間隔步長
 
 [更多str的functions](https://kknews.cc/zh-tw/code/rqp6yzn.html)
