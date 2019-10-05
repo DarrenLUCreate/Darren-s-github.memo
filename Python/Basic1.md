@@ -49,3 +49,11 @@ sorted(): 不改變原來list的內容，所進行的排序，語法是"listname
 * split: 將一個字串已指定方式進行分割，語法是"list.split([split list])"
 * find : 找尋字串在字串中的位置，語法是"字串.find(搜尋字串)"
 * replace: 字串.replace(被取代的字串,取代的字串)
+
+str1 = "fwwrgwegwwg"
+
+str1[1::3] ==> 'wggg'
+
+str[start:end:steps] start:字符開始的地方 end:字符節結束的地方 steps:提取字符的間隔步長
+
+[更多str的functions](https://kknews.cc/zh-tw/code/rqp6yzn.html)
