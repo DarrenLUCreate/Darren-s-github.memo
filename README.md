@@ -2,6 +2,10 @@
 
 這裡有我的學習筆記
 
+*還債的項目:
+ * python :[Basic](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/Basic1.md)
+ * python :[Basic2](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/Data%20Structure.md)
+
 *演算法筆記:
   * week1: [Linked-List](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/LinkedList.md)
   * week2: [Stack & Queue](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Stack%26Queue.md)
