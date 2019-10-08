@@ -7,9 +7,10 @@
  * python :[Basic2](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/Data%20Structure.md)
 
 *演算法筆記:
-  * week1: [Linked-List](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/LinkedList.md)
-  * week2: [Stack & Queue](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Stack%26Queue.md)
+  * week2: [Linked-List](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/LinkedList.md)
+  * week3: [Stack & Queue](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Stack%26Queue.md)
   * week4: [Insertion sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Insertion%20Sort.md)
+  * week4: [Set](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Set.md)
 
 # About me
 
