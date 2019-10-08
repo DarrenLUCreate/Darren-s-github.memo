@@ -41,4 +41,4 @@ a^b # 對稱差集:{1,2,3,7,8,9} # 亦可用symmetric_difference()的方法
  
 [Python網路資料爬蟲與資料視覺化應用實務(作者:陳允傑，出版社:旗標出版社)](https://www.books.com.tw/products/0010809154)
 
-[Leetcode 題目練習]()
+[Leetcode 題目練習，我的解答](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/LeetCode/Set_Mismatch.py)
