@@ -2,6 +2,8 @@
 
 這裡有我的學習筆記
 
+*作業:
+ * Homework:[Quick_Sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/LeetCode/Quick_sort.ipynb)
 *還債的項目:
  * python :[Basic](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/Basic1.md)
  * python :[Basic2](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/Data%20Structure.md)
