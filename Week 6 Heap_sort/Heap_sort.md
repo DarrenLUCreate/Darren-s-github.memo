@@ -34,6 +34,12 @@ Heap Sort的時間複雜度，以n來代表資料
 
 ![](https://github.com/DarrenLUCreate/DarreNC/blob/master/Img/Heap.png)
 
+參考資料:
+
+* [老師的PPT](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.g64997b2199_0_10)
+* [Chiu CC大大的文章](http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html)
+* [黃浩杰大大的影片](https://www.youtube.com/watch?v=j-DqQcNPGbE&t=675s)
+
 
 
 
