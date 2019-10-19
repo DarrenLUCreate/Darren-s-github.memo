@@ -5,7 +5,7 @@
 *作業:
  * [Quick_Sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/Quick_sort)
  
-*還債的項目:
+*Python初階語法:
  * python :[Basic](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/Basic1.md)
  * python :[Basic2](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/Data%20Structure.md)
  * python :[例外處理](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/%E4%BE%8B%E5%A4%96%E8%99%95%E7%90%86.md)
