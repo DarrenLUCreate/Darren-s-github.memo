@@ -14,6 +14,7 @@
   * week3: [Stack & Queue](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Stack%26Queue.md)
   * week4: [Insertion sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Insertion%20Sort.md)
   * week4: [Set](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Set.md)
+  * week6: [Heap Sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Week%206%20Heap_sort/Heap_sort.md)
 
 # About me
 
