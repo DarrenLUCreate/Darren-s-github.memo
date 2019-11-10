@@ -29,4 +29,8 @@ class Solution(object):
             right_idx+=1
         
         return result #回傳result
+'''
+arr=[-6,2,7,8,0,0]
+rarr=[-6,0,0,2,7,8]
+'''
 
