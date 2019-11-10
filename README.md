@@ -4,6 +4,7 @@
 
 *作業:
  * [Quick_Sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/Quick_sort)
+ * [HW2](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/HW2)
  
 *Python初階語法:
  * python :[基礎函數，容器型態用法](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/Basic1.md)
