@@ -1,0 +1,9 @@
+# 兩者的比較
+
+Heap_sort跟Merge_sort的相同處在於時間複雜度不管在Best Case或Average&Worst Case都是一樣的NlogN
+
+Merge_Sort使用迭代(Recursion)的方法一步步分割list之後再把它合併起來，紀錄好先前的結果在進行大小值的交換後再合併
+
+Heap_Sort的方法是用二元樹的概念，利用index之間的關係去比較每個數字的大小
+
+也就是說亂數進去->heapify->得到Maxheap->再加入到新的list裡
