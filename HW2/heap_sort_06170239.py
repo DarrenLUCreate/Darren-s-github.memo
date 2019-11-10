@@ -24,3 +24,7 @@ class Solution(object):
         real = result[::-1] #反轉整個list
                      
         return real
+'''
+arr = [55,54,7,-1,6,-1]
+rarr=[-1, -1, 6, 7, 54, 55]
+'''
