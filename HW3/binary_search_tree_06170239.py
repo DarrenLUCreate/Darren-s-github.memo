@@ -134,7 +134,7 @@ class Solution(object):
             return
         
     def modify(root,value,new_value):
-        while self.root.value = value:
+        while self.root.value == new_value:
             root = delete(root,value)
             root = insert(root,new_val)
             return root
