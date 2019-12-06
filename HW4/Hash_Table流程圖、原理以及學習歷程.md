@@ -25,4 +25,13 @@ Contain的部分是將node.val = self.hashf(key)方式確認是否為同測值�
 
 ### Hash Table 學習歷程
 
+在開始寫hash table之前我根據了老師的解說影片跟PPT先了解了一下原理，了解一下可以應用在日常生活的哪些地方，例如會員登入，認證身分時會用到解碼學的原理，以及Hahs Table去儲存查找資料，應用的層面很廣，在寫之前也有去回顧老師之前的上課內容，在class10那裏的解說，告訴我們寫程式犯錯誤是很正常的，需要一步一步慢慢地修改以及求證，改正我之前一次就寫太多的習慣。
+
+### 參考資料:
+
+[Hash Table Intro](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html)
+[老師PPT](https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.p)
+[老師的影片RBT](https://www.youtube.com/watch?v=qR35AEc84AI&feature=youtu.be)
+[老師的影片Hash Table](https://www.youtube.com/watch?v=7C5f2ttq79Y&feature=youtu.be)
+
 
