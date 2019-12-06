@@ -30,8 +30,11 @@ Contain的部分是將node.val = self.hashf(key)方式確認是否為同測值�
 ### 參考資料:
 
 [Hash Table Intro](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html)
+
 [老師PPT](https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.p)
+
 [老師的影片RBT](https://www.youtube.com/watch?v=qR35AEc84AI&feature=youtu.be)
+
 [老師的影片Hash Table](https://www.youtube.com/watch?v=7C5f2ttq79Y&feature=youtu.be)
 
 
