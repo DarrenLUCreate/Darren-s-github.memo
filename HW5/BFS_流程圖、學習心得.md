@@ -24,3 +24,15 @@ DFS:從圖形中的某一頂點開始拜訪，被拜訪過的頂點會被標記�
 並以STACK進行處理，堆疊內的元素的最頂端為最先拜訪的點，直到所有點都被拜訪完，為深度優先搜尋法
 
 STACK:First in Last Out
+
+## 參考資料:
+
+[BFS](http://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html)
+
+[BFS](http://simonsays-tw.com/web/DFS-BFS/BreadthFirstSearch.html)
+
+[DFS](http://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html)
+
+[BFS&DFS](https://kopu.chat/2017/09/22/%E5%AF%A6%E4%BD%9Cgraph%E8%88%87dfs%E3%80%81bfs%E8%B5%B0%E8%A8%AA/)
+
+[Graph](http://www.csie.ntnu.edu.tw/~u91029/Graph.html)
