@@ -10,20 +10,24 @@ class Graph:
         queue = [s]
         while queue:
             s = queue.pop(0)
-            print(s, end= " ")
+
             for item in self.graph[s]:
                 if item not in visited:
                     queue.append(item)
                     visited.append(item)
+                    
+        return visited
+                    
     def DFS(self,s):
         visited = []
         stack = [s]
         
         while stack:
             s = stack.pop()
-            if s not in visited:
-                print(s, end=" ")
+            if (s not in visited)&(s not in stack):
                 visited.append(s)
                 
                 for j in self.graph[s]:
                     stack.append(j)
+                    
+        return visited
