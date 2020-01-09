@@ -17,6 +17,8 @@ DFS()本質上是一種「遞迴(recursion)結構」，而遞迴結構其實是�
 
 ![](https://github.com/DarrenLUCreate/DarreNC/blob/master/Img/DFS1.png)
 
+![](https://github.com/DarrenLUCreate/DarreNC/blob/master/Img/DFS2.png)
+
 ## 參考資料:
 [ChiuCC](https://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html)
 
