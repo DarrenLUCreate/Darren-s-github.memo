@@ -29,7 +29,7 @@
   * week9: [Binary Search Tree]()
   * week10: [Red Black Tree]()
   * week11: [Hash Table]()
-  * week12: [Breadth-First Search]()
+  * week12: [Breadth-First Search](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Breadth-First%20Search.md)
   * week13: [Depth-First Search](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Depth-First%20Search.md)
   * week14: [Minimum Spanning Tree-Kruskal](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Minimum%20Spanning%20Tree-Kruskal.md)
   * week15: [Shrotest-Path-Dijkstra](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Shortest%20Path%20Dijkstra.md)
