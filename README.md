@@ -24,7 +24,7 @@
   * week4: [Set](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Set.md)
   * week5: [Quick Sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Quick_Sort.md)
   * week6: [Heap Sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Week%206%20Heap_sort/Heap_sort.md)
-  * week7: [Merge Sort]()
+  * week7: [Merge Sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Merge%20Sort.md)
   * week8: [Binary Tree]()
   * week9: [Binary Search Tree]()
   * week10: [Red Black Tree]()
