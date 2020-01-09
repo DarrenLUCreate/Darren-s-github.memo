@@ -3,8 +3,12 @@
 這裡有我的學習筆記
 
 *作業:
- * [Quick_Sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/Quick_sort)
+ * [HW1:](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/Quick_sort)
  * [HW2](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/HW2)
+ * [HW3](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/HW3)
+ * [HW4](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/HW4)
+ * [HW5](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/HW5)
+ * [HW6](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/HW6)
  
 *Python初階語法:
  * python :[基礎函數，容器型態用法](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/Basic1.md)
@@ -13,11 +17,29 @@
  * python :[例外處理](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Python/%E4%BE%8B%E5%A4%96%E8%99%95%E7%90%86.md)
 
 *演算法筆記:
+  * week1: No Class
   * week2: [Linked-List](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/LinkedList.md)
   * week3: [Stack & Queue](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Stack%26Queue.md)
   * week4: [Insertion sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Insertion%20Sort.md)
   * week4: [Set](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Set.md)
+  * week5: [Quick Sort]()
   * week6: [Heap Sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Week%206%20Heap_sort/Heap_sort.md)
+  * week7: [Merge Sort]()
+  * week8: [Binary Tree]()
+  * week9: [Binary Search Tree]()
+  * week10: [Red Black Tree]()
+  * week11: [Hash Table]()
+  * week12: [Breadth-First Search]()
+  * week13: [Depth-First Search]()
+  * week14: [Minimum Spanning Tree-Kruskal]()
+  * week15: [Shrotest-Path-Dijkstra]()
+  
+* LeetCode:
+  * [Go To My LeetCode]()
+* CodeSignal:
+  * [Go To My CodeSignal]()
+* CS50:
+  * [Go To My CS50]()
 
 # About me
 
