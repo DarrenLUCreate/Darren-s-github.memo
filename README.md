@@ -1,5 +1,14 @@
 # Welcome to My learning Note
 
+# About me
+
+### **呂函庭** (Darren)
+* 就讀於東吳大學-巨量資料管理學系
+* 星座: 機掰的天蠍座
+* 興趣: 彈吉他吧
+* 目前學習的程式: python HTML5 CSS
+* 喜歡的樂團: PolyPhia
+
 這裡有我的學習筆記
 
 *作業:
@@ -47,11 +56,3 @@
 * CS50:
   * [Go To My CS50]()
 
-# About me
-
-### **呂函庭** (Darren)
-* 就讀於東吳大學-巨量資料管理學系
-* 星座: 機掰的天蠍座
-* 興趣: 彈吉他吧
-* 目前學習的程式: python HTML5 CSS
-* 喜歡的樂團: PolyPhia 
