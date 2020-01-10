@@ -1,0 +1,3 @@
+# CodeSignal
+
+這裡放了這學期有寫過的codesignal題目，事先對於leetcode來說適合新手的程式學習網站，以下放了我的練習題目
