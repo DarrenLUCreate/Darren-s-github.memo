@@ -48,7 +48,7 @@
   
 
 * LeetCode:
-  * [Go To My LeetCode]()
+  * [Go To My LeetCode](https://github.com/DarrenLUCreate/Darren-s-github.memo/tree/master/Leetcode)
   
 * CodeSignal:
   * [Go To My CodeSignal]()
