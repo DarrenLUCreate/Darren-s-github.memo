@@ -27,7 +27,7 @@
   * week7: [Merge Sort](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Merge%20Sort.md)
   * week8: [Binary Tree](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Binary%20Tree.md)
   * week9: [Binary Search Tree](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Binary%20Search%20Tree.md)
-  * week10: [Red Black Tree]()
+  * week10: [Red Black Tree](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Red%20Black%20Tree.md)
   * week11: [Hash Table]()
   * week12: [Breadth-First Search](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Breadth-First%20Search.md)
   * week13: [Depth-First Search](https://github.com/DarrenLUCreate/Darren-s-github.memo/blob/master/Data%20Structure/Depth-First%20Search.md)
