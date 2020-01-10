@@ -1,7 +1,7 @@
 # Minimum Spanning Tree-Kruskal
 
 ## Definition:
-Kruskal演算法是一種用來尋找最小生成樹的演算法，由Joseph Kruskal在1956年發表。用來解決同樣問題的還有前面Prim演算法和Boruvka演算法等。和Boruvka演算法不同的地方是，Kruskal演算法在圖中存在相同權值的邊時也有效。
+Kruskal算法是藉由找出權重最小的邊開始連接，直到所有的邊都已經被連接 且沒有造成cycle的狀況下便可以形成最小生成樹 若是有cycle便不採用該edge， 點的視角：不斷連結兩棵 MSS 、合併兩棵 MSS ，得到最小生成樹（森林) 邊的視角：依序以權重最小、次小、 …… 的邊，嘗試連結各棵 MSS ，得到最小生成樹（森林）
 
 ![](https://github.com/DarrenLUCreate/DarreNC/blob/master/Img/MST.png)
 
