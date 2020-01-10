@@ -1,53 +1,53 @@
-# Binary Tree
-## Definition:
-Tree廣義上來說對於node的child沒有數量上的限制，但對於如果有限制2個child便是Binary Tree，兩個pointer稱為left_child和right_child
+# Binary Search Tree
 
-![](https://github.com/DarrenLUCreate/DarreNC/blob/master/Img/BT.png)
+## Definition
+1.若左子樹存在:其所有數均會比root小
 
-## 特性:
-1.
-|二元樹|樹|
-|:-:|:-|
-|二元樹可以為空集合|樹不可為空集合|
-|分支度0<=degree<=2|分支度degree>=0|
-|左右子樹有次序之分|左右子樹沒有次序之分|
+2.若右子樹存在:其所有數均會比root大
 
-![](https://github.com/DarrenLUCreate/DarreNC/blob/master/Img/BT2.png)
+3.其所有子樹皆符合二元搜尋樹
 
-2.假設二元樹有i個階度，最多的節點數目計算方法為2**i-1 , i>=1
+![title](https://github.com/DarrenLUCreate/DarreNC/blob/master/Img/tree.png)
 
-3.假設高度為h的二元樹中計算最多節點的方法為(2**h)-1 , h>=1
+##步驟
+1.依據原始資料輸入順序來建立
 
-4.總節點數為總邊數+1
+2.第一個輸入的資料當作樹根
 
-## 搜尋方法:
-主要分為3種前序追蹤，中序追蹤，後序追蹤
+3.接下來輸入的數從樹根的節點資料開始比較
 
-1.前序追蹤:Pre-order
+4.如果比樹根大放入右子樹，沒有右子樹，把新的資料當作右子樹
 
-先拜訪樹根，在拜訪左子樹，最後才拜訪右子樹，又稱為深度優先追蹤
+5.如果比樹根小放入左子樹，沒有左子樹，把新的資料當作左子樹
 
-2.中序追蹤:In-order
+6.遞迴執行前二步驟直到位子確定為止
 
-先拜訪左子樹，在拜訪樹根，最後拜訪右子樹
+7.重複前四個步驟直到資料輸入完畢
 
-3.後序追蹤:Post-order
+## 具備的功能
 
-先拜訪左子樹，在拜訪右子樹，最後才拜訪樹根
+### 新增:
+我先確認樹裡有沒有值，如果沒有我就加入新值，如果有我就確認左右子節點是否為空值，並和我的樹根進行比大小，比樹根小就往左，比樹根大就往右
 
-![](https://github.com/DarrenLUCreate/DarreNC/blob/master/Img/BT.jpg)
+直到我可以把數值放入我的樹裡
 
-Pre-Order:1,2,4,7,8,5,3,6,9,10
+### 搜尋:
+若是在一開始就搜尋到我想要的數值時，便可以回傳了，但若不是，邊依照Binary Search Tree的規則搜尋下去
 
-In-Order:7,4,8,2,5,1,3,9,6,10
+### 刪除:
+Delete有分別3種情況，分別是沒有子節點，單一子節點，跟2個子節點，若是沒有子節點，我便可把該node指向None，若是我有1個子節點，便將該節點刪除後，將其子節點指向該父節點，若是我有2個子節點，便創造一個temp，將原本的節點的子節點放進temp，將原本的node指向其子節點，刪除後，再把原本temp裡的資料從新放回已刪除節點的位子
 
-Post-Order:7,8,4,5,2,9,10,6,3,1
+### 修改:
+基本上就是先搜尋，在將固有值刪除，再插入新增的值
 
-## 參考資料:
-[ChiuCC](http://alrightchiu.github.io/SecondRound/binary-tree-introjian-jie.html)
+參考資料:
 
-[ChiuCC](http://alrightchiu.github.io/SecondRound/binary-tree-traversalxun-fang.html)
+[article](http://alrightchiu.github.io/SecondRound/treeshu-introjian-jie.html)
 
-[GeeksforGeeks](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+[article](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 
-[二元樹走訪](https://ithelp.ithome.com.tw/articles/10205571)
+[article](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
+
+[article](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
+
+[article](https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/)
